@@ -40,12 +40,12 @@
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
         "source": "/Users/danceciliochua/.android/build-cache/b22b3cc27b22fb9ba501e2c5a58df68ce6923847/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
