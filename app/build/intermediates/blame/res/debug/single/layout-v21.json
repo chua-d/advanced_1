@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
