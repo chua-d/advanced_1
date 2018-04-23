@@ -1,19 +1,20 @@
-FragmentExample_start - Starter Code
-====================================
+FragmentExample2 - Solution Code
+================================
 
-Note: Rename project folder to "FragmentExample" before opening
-in Android Studio.
-
-Use as starter code for the FragmentExample app. It provides
-an image, and the title and text of a magazine article.
+This app shows how to add a dynamic fragment to FragmentExample1
+that enables users to add or remove the fragment from the
+activity's UI as needed.
 
 Introduction
 ------------
 
-This app, based on the Empty Activity template, provides a starter
-layout with an image, and the title and text of a magazine
-article. The UI elements are arranged to provide a space at the
-top for adding a fragment.
+The app improves FragmentExample1 by changing a static fragment
+to a dynamic fragment, which can be added, replaced, or removed
+during the lifetime of its parent activity.
+
+Users can open or close the fragment by clicking a button in the
+main activity. The fragment provides radio buttons for the user
+to choose "yes" or "no".
 
 Pre-requisites
 --------------
@@ -21,6 +22,8 @@ Pre-requisites
 You need to know how to:
 - Open, build, and run apps with Android Studio.
 - Use the layout editor to create a UI with a ConstraintLayout.
+- Inflate the UI layout for an activity.
+- Add a set of radio buttons with a listener to a UI.
 
 Getting Started
 ---------------

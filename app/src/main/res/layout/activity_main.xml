@@ -23,16 +23,6 @@
     android:layout_height="match_parent"
     tools:context="com.example.android.fragmentexample.MainActivity">
 
-    <FrameLayout
-        android:id="@+id/fragment_container"
-        android:name="com.example.android.fragmentexample.SimpleFragment"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout="@layout/fragment_simple"/>
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
@@ -61,16 +51,18 @@
         app:layout_constraintTop_toTopOf="@+id/imageView"/>
 
     <ScrollView
-        android:id="@+id/scrollView2"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginBottom="@dimen/standard_margin"
         android:layout_marginRight="@dimen/standard_margin"
-        android:layout_marginTop="@dimen/standard_margin"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="@+id/title"
+        android:layout_marginEnd="@dimen/standard_margin"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/title">
+        android:layout_marginTop="@dimen/standard_margin"
+        app:layout_constraintTop_toBottomOf="@+id/title"
+        android:layout_marginLeft="0dp"
+        android:layout_marginStart="0dp"
+        app:layout_constraintLeft_toLeftOf="@+id/title"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="@dimen/standard_margin">
 
         <TextView
             android:id="@+id/article"
@@ -78,21 +70,28 @@
             android:layout_height="wrap_content"
             android:text="@string/article1"
             tools:layout_editor_absoluteX="8dp"
-            tools:layout_editor_absoluteY="288dp" />
+            tools:layout_editor_absoluteY="288dp"/>
     </ScrollView>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:name="SimpleFragment"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout="@layout/fragment_simple"/>
 
     <Button
         android:id="@+id/open_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginLeft="@dimen/standard_margin"
+        android:layout_marginStart="@dimen/standard_margin"
+        android:layout_marginTop="@dimen/standard_margin"
         android:text="@string/open"
-        app:layout_constraintEnd_toStartOf="@+id/scrollView2"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"/>
 
 </android.support.constraint.ConstraintLayout>
