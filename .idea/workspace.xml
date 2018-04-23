@@ -7,21 +7,244 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3070cbd8-0075-44b0-9dc8-90ec830a7137" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_26_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_26_0_1.xml" />
       <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_26.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_0_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Lesson1.iml" afterPath="$PROJECT_DIR$/Lesson1.iml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/example/android/fragmentexample/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/android/fragmentexample/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v21.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v26.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v26.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-v21.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/MainActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/MainActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$anim.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$bool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$mipmap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/SimpleFragment$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/SimpleFragment$OnFragmentInteractionListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/fragmentexample/SimpleFragment.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/9SHohDnEeL0KoZjbXMnYGWUaj+Q=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_05003865b2e0a40f37c82820c04b270fb687105c.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_1b73264dfb1bfd866bdf89c4c8ba50051dd08d27.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_27211e187b4eac93dc21491a792c741b3768b74c.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_371dfff50898767ea2593ab7126a248b1a3569e1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_4e3adbedbb664079180c6ac0cd77cc575e921391.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_671dabc3521001813e904fd258b88a2d35732515.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_6b410370619e0174b156f9e2a24b1cf287d9ab81.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_6e3719678fe697d43dc9dccb65aeff0d71856954.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_8986a97e3971d9b08f20e9697f7137842817705a.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_e45524772ed794f4cf47dc1c35110eae95f09532.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_394d15bfec143e48be6aee9074bcb0fbefbf9e09.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_b1678a160e8087661db520c22d70319a2910db5c.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_6303aff9abd7b569e9ce3fa1ca7f1aa30884f62d.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_simple.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v26/values-v26.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v26/values-v26.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/MainActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_simple.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-50-34-368.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-50-46-748.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-50-50-650.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-50-56-548.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-50-59-964.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-57-59-578.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-58-00-648.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-10-58-05-614.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-23-11-05-49-481.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +268,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -73,32 +296,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleFragment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="122" column="45" lean-forward="true" selection-start-line="122" selection-start-column="45" selection-end-line="122" selection-end-column="45" />
-              <folding>
-                <element signature="e#1888#1940#0" expanded="true" />
-                <element signature="e#3126#4520#0" expanded="true" />
-                <element signature="e#3706#3726#0" expanded="true" />
-                <element signature="e#4000#4019#0" expanded="true" />
-                <element signature="e#4519#4520#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="71" column="85" lean-forward="false" selection-start-line="71" selection-start-column="85" selection-end-line="71" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -162,11 +359,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="validateSigningDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support.constraint:constraint-layout:1.0.2" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportConstraintConstraintLayout102Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -752,6 +944,11 @@
                 <option name="name" value="mergeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:26.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportDesign2601Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugRenderscript" />
               </ExternalTaskPojo>
@@ -785,6 +982,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:26.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72601Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -842,6 +1044,11 @@
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:transition:26.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportTransition2601Library" />
+              </ExternalTaskPojo>
             </list>
           </value>
         </entry>
@@ -861,11 +1068,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="validateSigningDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support.constraint:constraint-layout:1.0.2" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportConstraintConstraintLayout102Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1441,6 +1643,11 @@
                 <option name="name" value="mergeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:26.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportDesign2601Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileDebugRenderscript" />
               </ExternalTaskPojo>
@@ -1474,6 +1681,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:26.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72601Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1531,6 +1743,11 @@
                 <option name="description" value="Displays the properties of project ':app'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:transition:26.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportTransition2601Library" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -1996,8 +2213,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2020,8 +2238,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2198,7 +2415,7 @@
     <frame x="0" y="387" width="1280" height="413" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2211,8 +2428,8 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26171243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2238,6 +2455,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_simple.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -2333,22 +2561,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_simple.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2371,25 +2583,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="71" column="85" lean-forward="false" selection-start-line="71" selection-start-column="85" selection-end-line="71" selection-end-column="85" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="122" column="45" lean-forward="true" selection-start-line="122" selection-start-column="45" selection-end-line="122" selection-end-column="45" />
-          <folding>
-            <element signature="e#1888#1940#0" expanded="true" />
-            <element signature="e#3126#4520#0" expanded="true" />
-            <element signature="e#3706#3726#0" expanded="true" />
-            <element signature="e#4000#4019#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

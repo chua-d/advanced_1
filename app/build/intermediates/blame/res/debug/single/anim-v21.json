@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

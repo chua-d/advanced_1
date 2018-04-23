@@ -1,24 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:18:1-37:12
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:19:5-50
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:21:5-35:19
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] /Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/danceciliochua/.android/build-cache/1ff2683de6251cbdb16637f63ffdc1ec5fd32ad6/output/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/danceciliochua/.android/build-cache/8594f4c888a39507c8dfa459e74ceb22e31467d3/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/danceciliochua/.android/build-cache/5a91ec75594b4c722f91dd6c496725026f129d8e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/danceciliochua/.android/build-cache/ccad9a7b3d5414d06874ec9fbc3cacd9392fa4b0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /Users/danceciliochua/.android/build-cache/6f28c0af1700dbc6e632a4aac443fe00c250f120/output/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.0.1] /Users/danceciliochua/.android/build-cache/15d4f2241b4552ba709d41d312d487da142af28e/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.0.1] /Users/danceciliochua/.android/build-cache/b22b3cc27b22fb9ba501e2c5a58df68ce6923847/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.0.1] /Users/danceciliochua/.android/build-cache/a7d1b72664daf0f83a4b7e607b4dee9570f6c675/output/AndroidManifest.xml:25:5-29:19
@@ -26,37 +28,59 @@ MERGED from [com.android.support:support-core-ui:26.0.1] /Users/danceciliochua/.
 MERGED from [com.android.support:support-core-utils:26.0.1] /Users/danceciliochua/.android/build-cache/f33dfb2d0ec36d666f21aa1d1894b3b30931e88c/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.1] /Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:25:9-54
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:27:9-40
-activity#com.example.android.fragmentexample.MainActivity
-ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:28:9-34:20
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.songdetailstart.MainActivity
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:28:19-47
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:13:13-76
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.songdetailstart.SongDetailActivity
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:24:13-54
+	android:parentActivityName
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:25:13-90
+	android:theme
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:23:13-82
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:27:13-29:84
+	android:value
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml:28:17-63
 uses-sdk
 INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.1] /Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/danceciliochua/.android/build-cache/1ff2683de6251cbdb16637f63ffdc1ec5fd32ad6/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/danceciliochua/.android/build-cache/8594f4c888a39507c8dfa459e74ceb22e31467d3/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/danceciliochua/.android/build-cache/5a91ec75594b4c722f91dd6c496725026f129d8e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/danceciliochua/.android/build-cache/ccad9a7b3d5414d06874ec9fbc3cacd9392fa4b0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /Users/danceciliochua/.android/build-cache/6f28c0af1700dbc6e632a4aac443fe00c250f120/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.0.1] /Users/danceciliochua/.android/build-cache/15d4f2241b4552ba709d41d312d487da142af28e/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.1] /Users/danceciliochua/.android/build-cache/b22b3cc27b22fb9ba501e2c5a58df68ce6923847/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.1] /Users/danceciliochua/.android/build-cache/a7d1b72664daf0f83a4b7e607b4dee9570f6c675/output/AndroidManifest.xml:21:5-23:60
@@ -64,7 +88,7 @@ MERGED from [com.android.support:support-core-ui:26.0.1] /Users/danceciliochua/.
 MERGED from [com.android.support:support-core-utils:26.0.1] /Users/danceciliochua/.android/build-cache/f33dfb2d0ec36d666f21aa1d1894b3b30931e88c/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.0.1] /Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:26.0.1] /Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
@@ -72,9 +96,12 @@ MERGED from [com.android.support:support-compat:26.0.1] /Users/danceciliochua/.a
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.0.1] /Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/danceciliochua/.android/build-cache/1ff2683de6251cbdb16637f63ffdc1ec5fd32ad6/output/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/danceciliochua/.android/build-cache/8594f4c888a39507c8dfa459e74ceb22e31467d3/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/danceciliochua/.android/build-cache/ccad9a7b3d5414d06874ec9fbc3cacd9392fa4b0/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /Users/danceciliochua/.android/build-cache/6f28c0af1700dbc6e632a4aac443fe00c250f120/output/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.0.1] /Users/danceciliochua/.android/build-cache/15d4f2241b4552ba709d41d312d487da142af28e/output/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.0.1] /Users/danceciliochua/.android/build-cache/b22b3cc27b22fb9ba501e2c5a58df68ce6923847/output/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.0.1] /Users/danceciliochua/.android/build-cache/a7d1b72664daf0f83a4b7e607b4dee9570f6c675/output/AndroidManifest.xml:26:9-28:38
@@ -82,6 +109,6 @@ MERGED from [com.android.support:support-core-ui:26.0.1] /Users/danceciliochua/.
 MERGED from [com.android.support:support-core-utils:26.0.1] /Users/danceciliochua/.android/build-cache/f33dfb2d0ec36d666f21aa1d1894b3b30931e88c/output/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.0.1] /Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.0.1] /Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.0.1] /Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/AndroidManifest.xml:27:13-51

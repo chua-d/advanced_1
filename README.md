@@ -1,29 +1,28 @@
-FragmentExample2 - Solution Code
-================================
+SongDetail_start - Starter Code
+===============================
 
-This app shows how to add a dynamic fragment to FragmentExample1
-that enables users to add or remove the fragment from the
-activity's UI as needed.
+Note: Rename project folder to "SongDetail" before opening
+in Android Studio.
+
+Use as starter code for the Songs app. It provides song titles
+that the user can tap to see song details.
 
 Introduction
 ------------
 
-The app improves FragmentExample1 by changing a static fragment
-to a dynamic fragment, which can be added, replaced, or removed
-during the lifetime of its parent activity.
-
-Users can open or close the fragment by clicking a button in the
-main activity. The fragment provides radio buttons for the user
-to choose "yes" or "no".
+This starter app has been prepared with data, layouts, and a
+RecyclerView to show a list of songs. The user taps a song
+title to see details about the song. The app uses two
+activities -- one to show the song list, and the other to show
+the song details.
 
 Pre-requisites
 --------------
 
 You need to know how to:
 - Open, build, and run apps with Android Studio.
-- Use the layout editor to create a UI with a ConstraintLayout.
-- Inflate the UI layout for an activity.
-- Add a set of radio buttons with a listener to a UI.
+- Create a fragment with an interactive UI.
+- Add, replace, and remove a dynamic fragment while an activity is running.
 
 Getting Started
 ---------------

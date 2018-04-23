@@ -16,6 +16,10 @@
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/color-v23/abc_tint_spinner.xml"
     },

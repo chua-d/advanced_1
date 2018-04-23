@@ -12,6 +12,10 @@
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/color/design_error.xml"
+    },
+    {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/color/abc_tint_switch_track.xml"
     },
@@ -22,6 +26,10 @@
     {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/color/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",

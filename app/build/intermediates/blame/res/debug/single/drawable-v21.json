@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
@@ -8,11 +12,23 @@
         "source": "/Users/danceciliochua/.android/build-cache/c7ea069a98d0d79ce6cff2a97e3bbf29b24c15ab/output/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/danceciliochua/.android/build-cache/1695450eefbdeba3960964ef26bc2fee5f029698/output/res/drawable-v21/design_password_eye.xml"
     }
 ]
