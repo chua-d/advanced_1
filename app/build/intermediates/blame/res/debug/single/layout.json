@@ -216,6 +216,10 @@
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout/fragment_song_detail.xml",
+        "source": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/src/main/res/layout/fragment_song_detail.xml"
+    },
+    {
         "merged": "/Users/danceciliochua/Documents/Advanced Android/Lesson1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/Users/danceciliochua/.android/build-cache/25e32f4b389ffc127eccbc18136d05bba2c74fd9/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
